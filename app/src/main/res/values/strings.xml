@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MAPTMockApplication</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="malicious_url">https://www.birdforhome.com/</string>
+    <string name="malicious_ip">139.59.8.39</string>
+</resources>
